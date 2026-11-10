@@ -1,16 +1,13 @@
-## Hi there 👋
+<a href="https://buildwithpriince.in"><img src="./cards/hero.svg" alt="Prince Agrawal, CSE student building full-stack and AI products" width="100%" /></a>
 
-<!--
-**buildwithpriince/buildwithpriince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://buildwithpriince.in"><img src="./cards/tile-build.svg" alt="Build: full stack" width="32.5%" /></a>
+<a href="https://github.com/buildwithpriince"><img src="./cards/tile-hack.svg" alt="Hack: 4 hackathons" width="32.5%" /></a>
+<a href="https://github.com/buildwithpriince?tab=overview"><img src="./cards/tile-streak.svg" alt="Ship: longest commit streak in days" width="32.5%" /></a>
 
-Here are some ideas to get you started:
+<img src="./cards/chart.svg" alt="Contributions per month over the last 12 months" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/buildwithpriince/buildwithpriince-portfolio"><img src="./cards/repo-portfolio.svg" alt="buildwithpriince-portfolio" width="100%" /></a>
+<a href="https://github.com/buildwithpriince/MediKiosk"><img src="./cards/repo-medikiosk.svg" alt="MediKiosk" width="100%" /></a>
+<a href="https://github.com/buildwithpriince/GlobeTrotter"><img src="./cards/repo-globetrotter.svg" alt="GlobeTrotter" width="100%" /></a>
+
+<img src="./cards/graph.svg" alt="Contribution graph for the last year" width="100%" />
